@@ -1,4 +1,4 @@
-//引用头文件
+//脪媒脫脙脥路脦脛录镁
 #define _USE_MATH_DEFINES
 #include <gl/glut.h>
 #include <cmath>
